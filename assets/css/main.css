@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'RobotoItalic';
+  src: url('/fonts/Roboto-Italic-VariableFont_wdth,wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+:root {
+    background-color: #271c19;
+    haedline-color: #fffffe;
+    subtitle-color: #fff3ec;
+    card-bg-color: #55423d;
+    card-headline-color: #fffffe;
+    card-subtitle-color: #fff3ec;
+    stroke: #140d0b;
+    hightlight-color: #e78fb3;
+    secondary-color: #ffc0ad;
+    tertiary-color: #9656a1;
+}
